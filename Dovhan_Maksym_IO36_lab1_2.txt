@@ -1,0 +1,14 @@
+    1  history -w
+    2  history -w
+    3  history 
+    4  fg
+    5  ps aux | grep ping
+    6  kill -15 6211
+    7  pgrep -a ping
+    8  ps aux | grep ping
+    9  kill 6237
+   10  sudo kill -9 6237
+   11  sudo killall vlc
+   12  whoami
+   13  date
+   14  history > Dovhan_Maksym_IO36_lab1_2.txt
